@@ -22,7 +22,7 @@ Continue building your app on:
 
 **[https://v0.dev/chat/projects/8jMPzaSCy4x](https://v0.dev/chat/projects/8jMPzaSCy4x)**
 
-## How It Works
+## How It Works...
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
 2. Deploy your chats from the v0 interface
